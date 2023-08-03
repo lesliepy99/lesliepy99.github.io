@@ -31,34 +31,51 @@ I am a first-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department of
 
 == Research Interest
 - AI in EDA
-- VLSI Placement
+- Combinatorial Algorithms in EDA
 
 == Publication
+=== Conference papers
 #
-- [J1] Siting Liu, *Yuan Pu*, Peiyu Liao, Hongzhong Wu, Rui Zhang, Zhitang Chen, Wenlong Lv, Yibo Lin, Bei Yu, “FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol. 42, no. 07, pp. 2317–2330, 2023.
+- \[C2\] Siting Liu, *Yuan Pu*, Peiyu Liao, Hongzhong Wu, Rui Zhang, Zhitang Chen, Wenlong Lv, Yibo Lin, Bei Yu, “FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler (Extended Abstract)”, International Joint Conference on Artificial Intelligence (IJCAI), Macau, Aug. 19–25, 2023.
 #
-- [2] Siting Liu, *Yuan Pu*, Peiyu Liao, Hongzhong Wu, Rui Zhang, Zhitang Chen, Wenlong Lv, Yibo Lin, Bei Yu, “FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler (Extended Abstract)”, International Joint Conference on Artificial Intelligence (IJCAI), Macau, Aug. 19–25, 2023.
+- \[C1\] Ziyi Wang, Siting Liu, *Yuan Pu*, Song Chen, Tsung-Yi Ho, Bei Yu, “Realistic Sign-off Timing Prediction via Multimodal Fusion”, ACM/IEEE Design Automation Conference (DAC), San Francisco, Jul. 09–13, 2023
+=== Journal papers
 #
-- [C1] Ziyi Wang, Siting Liu, *Yuan Pu*, Song Chen, Tsung-Yi Ho, Bei Yu, “Realistic Sign-off Timing Prediction via Multimodal Fusion”, ACM/IEEE Design Automation Conference (DAC), San Francisco, Jul. 09–13, 2023
+- \[J1\] Siting Liu, *Yuan Pu*, Peiyu Liao, Hongzhong Wu, Rui Zhang, Zhitang Chen, Wenlong Lv, Yibo Lin, Bei Yu, “FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol. 42, no. 07, pp. 2317–2330, 2023.
 
 == Education
 - Ph.D., Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), Aug\/2023 - Now
-- B.Eng., School of Electronic Information, Wuhan University (WHU), Aug\/2019 - Jun\/2023
+- B.Sc., Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), Aug\/2018 - Jun\/2022
 
 == Experiences
-*[https://cn.smartmore.com/ SmartMore]* Shenzhen, China
-- Intern, Feb. 2023 - Aug. 2023
+*[https://www.shlab.org.cn/ Shanghai AI lab]* Shanghai, China
+- Intern, Oct. 2022 - Jul. 2023
+
+*[http://www.cse.cuhk.edu.hk/ CUHK]* Hong Kong, China
+- Research assistant, Jun. 2022 - Jun. 2023
+- Supervised by [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei YU]
+
+*[https://cn.smartmore.com/ SmartMore]* Hong Kong, China
+- Intern, Jan. 2022 - Jul. 2022
+
+*[http://www.cse.cuhk.edu.hk/ CUHK]* Hong Kong, China
+- Research assistant, Jun. 2020 - Jun. 2022
+- Supervised by [https://www.ie.cuhk.edu.hk/faculty/yblee2/ Prof. Jack Lee]
+
+
+
 
 == Selected Awards
 ~~~
 {}{table}{noborder}
  
  Full Postgraduate Studentship,     |The Chinese University of Hong Kong,     |2023-2027||
+ Special Award, Second Runner-Up,   |Professor Charles K. Kao Student Creativity Awards 2021 (PCKKSCA)  | 2021||
 ~~~
 
 == Skills
-- Languages: C\/C\+\+, Python, Verilog
-- Tools    : PyTorch, Tensorflow, Vivado, LaTeX
+- Languages: C\/C\+\+, Python.
+- Tools    : PyTorch, Tensorflow, Innovus, Vivado.
 
 
 
