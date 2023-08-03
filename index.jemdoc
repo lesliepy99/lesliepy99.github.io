@@ -1,0 +1,64 @@
+# jemdoc: nofooter
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/jemdoc_yuzhe.css}
+# jemdoc: addcss{ccs/myMiddle.css}
+# jemdoc: title{Yuan Pu -- CSE CUHK}
+
+
+~~~
+{}{img_left}{img/leslie.jpg}{}{150}{Lancheng ZOU}
+= Yuan PU (蒲渊)
+
+*Ph.D. Student*  
+[http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering] \n
+[http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong] \n
+*Supervisor*: [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei YU] \n
+*Email*:pyxch11081210@gmail.com\n
+{{<a href="https://github.com/lesliepy99" target="<u>blank"><img src="img/github-3.png" height=30></a>}} \n           
+~~~
+
+
+
+
+== Biography
+I am a first-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk the Chinese University of Hong Kong (CUHK)], supervised by [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei YU] since 2023 Fall. Prior to that, I obtained my B.Sc. degree in Computer Science from The Chinese University of Hong Kong in 2022.\n 
+
+== Recent News
+~~~
+- Looking forward to any good news.
+~~~
+
+
+== Research Interest
+- AI in EDA
+- VLSI Placement
+
+== Publication
+#
+- [J1] Siting Liu, *Yuan Pu*, Peiyu Liao, Hongzhong Wu, Rui Zhang, Zhitang Chen, Wenlong Lv, Yibo Lin, Bei Yu, “FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol. 42, no. 07, pp. 2317–2330, 2023.
+#
+- [2] Siting Liu, *Yuan Pu*, Peiyu Liao, Hongzhong Wu, Rui Zhang, Zhitang Chen, Wenlong Lv, Yibo Lin, Bei Yu, “FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler (Extended Abstract)”, International Joint Conference on Artificial Intelligence (IJCAI), Macau, Aug. 19–25, 2023.
+#
+- [C1] Ziyi Wang, Siting Liu, *Yuan Pu*, Song Chen, Tsung-Yi Ho, Bei Yu, “Realistic Sign-off Timing Prediction via Multimodal Fusion”, ACM/IEEE Design Automation Conference (DAC), San Francisco, Jul. 09–13, 2023
+
+== Education
+- Ph.D., Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), Aug\/2023 - Now
+- B.Eng., School of Electronic Information, Wuhan University (WHU), Aug\/2019 - Jun\/2023
+
+== Experiences
+*[https://cn.smartmore.com/ SmartMore]* Shenzhen, China
+- Intern, Feb. 2023 - Aug. 2023
+
+== Selected Awards
+~~~
+{}{table}{noborder}
+ 
+ Full Postgraduate Studentship,     |The Chinese University of Hong Kong,     |2023-2027||
+~~~
+
+== Skills
+- Languages: C\/C\+\+, Python, Verilog
+- Tools    : PyTorch, Tensorflow, Vivado, LaTeX
+
+
+
