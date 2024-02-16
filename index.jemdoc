@@ -25,7 +25,8 @@ I am a first-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department of
 
 == Recent News
 ~~~
-- Looking forward to any good news.
+- Our paper Lesyn is accepted by DAC 2024.
+- Our work Incremacro is nominated as bets paper candidate by ISPD 2024.
 ~~~
 
 
@@ -35,6 +36,8 @@ I am a first-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department of
 
 == Publication
 === Conference papers
+- \[C5] *Yuan Pu*, Fangzhou Liu, Yu Zhang, Zhuolun He, Kai-Yuan Chao, Yibo Lin, and Bei Yu. “Lesyn: Placement-aware Logic Resynthesis for Non-Integer Multiple-Cell-Height Designs,” ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, Jun. 23–27, 2024.
+#
 - \[C4\] Yu Zhang, *Yuan Pu*, Fangzhou Liu, Peiyu Liao, Kaiyuan Chao, Keren Zhu, Yibo Lin, Bei Yu, “Multi-Electrostatics Based Placement for Non-Integer Multiple-Height Cells”, ACM International Symposium on Physical Design (ISPD), Taipei, Mar. 12–15, 2024.
 #
 - \[C3\] *Yuan Pu*, Tinghuan Chen, Zhuolun He, Chen Bai, Haisheng Zheng, Yibo Lin, Bei Yu, “IncreMacro: Incremental Macro Placement Refinement”, ACM International Symposium on Physical Design (ISPD), Taipei, Mar. 12–15, 2024. (*Best Paper Award Nomination*)
