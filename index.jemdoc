@@ -25,9 +25,9 @@ I am a first-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department of
 
 == Recent News
 ~~~
-- Our work “Customized Retrieval Augmented Generation and Benchmarking for EDA Tool Documentation QA” is accepted by ICCAD 2024.
+- Our work “Customized Retrieval Augmented Generation and Benchmarking for EDA Tool Documentation QA” is accepted by ICCAD 2024 and is nominated as best paper candidate.
 - Our paper Lesyn is accepted by DAC 2024.
-- Our work Incremacro is nominated as bets paper candidate by ISPD 2024.
+- Our work Incremacro is nominated as best paper candidate by ISPD 2024.
 ~~~
 
 
@@ -37,7 +37,7 @@ I am a first-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department of
 
 == Publication
 === Conference papers
-- \[C7] *Yuan Pu*, Zhuolun He, Tairu Qiu, Haoyuan Wu, Bei Yu, “Customized Retrieval Augmented Generation and Benchmarking for EDA Tool Documentation QA”, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct. 27–31, 2024.
+- \[C7] *Yuan Pu*, Zhuolun He, Tairu Qiu, Haoyuan Wu, Bei Yu, “Customized Retrieval Augmented Generation and Benchmarking for EDA Tool Documentation QA”, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct. 27–31, 2024. (*Best Paper Award Nomination*)
 #
 - \[C6] Hongduo Liu, Peng Xu, *Yuan Pu*, Lihao Yin, Hui-Ling Zhen, Mingxuan Yuan, Tsung-Yi Ho, Bei Yu, “NeuroSelect: Learning to Select Clauses in SAT Solvers”, ACM/IEEE Design Automation Conference (DAC), San Francisco, Jun. 23–27, 2024.
 #
@@ -82,6 +82,7 @@ I am a first-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department of
 == Selected Awards
 ~~~
 {}{table}{noborder}
+ Best Paper Nomination              |IEEE/ACM International Conference on Computer-Aided Design (ICCAD), |2024||
  Best Paper Nomination              |International Symposium on Physical Design (ISPD), |2024||
  Fifth Place,                       |MLCAD 2023 contest, FPGA Macro Placement,  |2023||
  Full Postgraduate Studentship,     |The Chinese University of Hong Kong,     |2023-2027||
