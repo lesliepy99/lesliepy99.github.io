@@ -25,6 +25,7 @@ I am a second-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department o
 
 == Recent News
 ~~~
+- Our work HeLO is accepted by ISPD 2025.
 - Our work “Customized Retrieval Augmented Generation and Benchmarking for EDA Tool Documentation QA” is accepted by ICCAD 2024 and is nominated as best paper candidate.
 - Our paper Lesyn is accepted by DAC 2024.
 - Our work Incremacro is nominated as best paper candidate by ISPD 2024.
@@ -37,6 +38,8 @@ I am a second-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department o
 
 == Publication
 === Conference papers
+- \[C8] *Yuan Pu*, Fangzhou Liu, Zhuolun He, Keren Zhu, Rongliang Fu, Ziyi Wang, Tsung-Yi Ho, Bei Yu, “HeLO: A Heterogeneous Logic Optimization Framework by Hierarchical Clustering and Graph Learning”, ACM International Symposium on Physical Design (ISPD), Austin, Mar. 16–19, 2025.
+#
 - \[C7] *Yuan Pu*, Zhuolun He, Tairu Qiu, Haoyuan Wu, Bei Yu, “Customized Retrieval Augmented Generation and Benchmarking for EDA Tool Documentation QA”, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct. 27–31, 2024. (*Best Paper Award Nomination*)
 #
 - \[C6] Hongduo Liu, Peng Xu, *Yuan Pu*, Lihao Yin, Hui-Ling Zhen, Mingxuan Yuan, Tsung-Yi Ho, Bei Yu, “NeuroSelect: Learning to Select Clauses in SAT Solvers”, ACM/IEEE Design Automation Conference (DAC), San Francisco, Jun. 23–27, 2024.
