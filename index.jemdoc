@@ -25,7 +25,8 @@ I am a second-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department o
 
 == Recent News
 ~~~
-- Our work HeLO is accepted by ISPD 2025.
+- Our work IncreMacro is accepted by TCAD.
+- Our work HeLO is accepted by ISPD 2025 and nominated as best paper candidate.
 - Our work “Customized Retrieval Augmented Generation and Benchmarking for EDA Tool Documentation QA” is accepted by ICCAD 2024 and is nominated as best paper candidate.
 - Our paper Lesyn is accepted by DAC 2024.
 - Our work Incremacro is nominated as best paper candidate by ISPD 2024.
@@ -38,7 +39,7 @@ I am a second-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department o
 
 == Publication
 === Conference papers
-- \[C8] *Yuan Pu*, Fangzhou Liu, Zhuolun He, Keren Zhu, Rongliang Fu, Ziyi Wang, Tsung-Yi Ho, Bei Yu, “HeLO: A Heterogeneous Logic Optimization Framework by Hierarchical Clustering and Graph Learning”, ACM International Symposium on Physical Design (ISPD), Austin, Mar. 16–19, 2025.
+- \[C8] *Yuan Pu*, Fangzhou Liu, Zhuolun He, Keren Zhu, Rongliang Fu, Ziyi Wang, Tsung-Yi Ho, Bei Yu, “HeLO: A Heterogeneous Logic Optimization Framework by Hierarchical Clustering and Graph Learning”, ACM International Symposium on Physical Design (ISPD), Austin, Mar. 16–19, 2025. (*Best Paper Award Nomination*)
 #
 - \[C7] *Yuan Pu*, Zhuolun He, Tairu Qiu, Haoyuan Wu, Bei Yu, “Customized Retrieval Augmented Generation and Benchmarking for EDA Tool Documentation QA”, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct. 27–31, 2024. (*Best Paper Award Nomination*)
 #
@@ -54,6 +55,8 @@ I am a second-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department o
 #
 - \[C1\] Ziyi Wang, Siting Liu, *Yuan Pu*, Song Chen, Tsung-Yi Ho, Bei Yu, “Realistic Sign-off Timing Prediction via Multimodal Fusion”, ACM/IEEE Design Automation Conference (DAC), San Francisco, Jul. 09–13, 2023
 === Journal papers
+- \[J4\] *Yuan Pu*, Tinghuan Chen, Zhuolun He, Jiajun Qin, Chen Bai, Haisheng Zheng, Yibo Lin, Bei Yu, “IncreMacro: Incremental Macro Placement Refinement”, accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
+#
 - \[J3\] Zhuolun He, *Yuan Pu*, Haoyuan Wu, Yuhan Qin, Tairu Qiu, Bei Yu, “Large Language Models for EDA: From Assistants to Agents”, accepted by Foundations and Trends in Electronic Design Automation.
 #
 - \[J2\] Ziyi Wang, Wenqian Zhao, *Yuan Pu*, Lei Chen, Wilson Wang Kit Thong, Weihua Sheng, Tsung-Yi Ho, Bei Yu, “ParSGCN: Bridging the Gap Between Emulation Partitioning and Scheduling”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.
@@ -88,6 +91,7 @@ I am a second-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department o
 == Selected Awards
 ~~~
 {}{table}{noborder}
+ Best Paper Nomination              |International Symposium on Physical Design (ISPD), |2025||
  Best Paper Nomination              |IEEE/ACM International Conference on Computer-Aided Design (ICCAD), |2024||
  Best Paper Nomination              |International Symposium on Physical Design (ISPD), |2024||
  Fifth Place,                       |MLCAD 2023 contest, FPGA Macro Placement,  |2023||
