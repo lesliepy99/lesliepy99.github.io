@@ -39,6 +39,8 @@ I am a second-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department o
 
 == Publication
 === Conference papers
+- \[C9] Haoyuan Wu, Haisheng Zheng, *Yuan Pu*, Bei Yu, “Circuit Representation Learning with Masked Gate Modeling and Verilog-AIG Alignment”, International Conference on Learning Representations (ICLR), Singapore, Apr. 24–28, 2025.
+#
 - \[C8] *Yuan Pu*, Fangzhou Liu, Zhuolun He, Keren Zhu, Rongliang Fu, Ziyi Wang, Tsung-Yi Ho, Bei Yu, “HeLO: A Heterogeneous Logic Optimization Framework by Hierarchical Clustering and Graph Learning”, ACM International Symposium on Physical Design (ISPD), Austin, Mar. 16–19, 2025. (*Best Paper Award Nomination*)
 #
 - \[C7] *Yuan Pu*, Zhuolun He, Tairu Qiu, Haoyuan Wu, Bei Yu, “Customized Retrieval Augmented Generation and Benchmarking for EDA Tool Documentation QA”, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct. 27–31, 2024. (*Best Paper Award Nomination*)
