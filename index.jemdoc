@@ -25,6 +25,7 @@ I am a second-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department o
 
 == Recent News
 ~~~
+- May/2025: Our work RAG-EDA is accepted by TCAD.
 - Feb/2025: Visit in UT Austin!
 - Our work IncreMacro is accepted by TCAD.
 - Our work HeLO is accepted by ISPD 2025 and nominated as best paper candidate.
@@ -36,6 +37,7 @@ I am a second-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department o
 
 == Research Interest
 - AI/LLM in EDA
+- AI for Science
 - Combinatorial Algorithms in EDA
 
 == Publication
@@ -58,6 +60,10 @@ I am a second-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department o
 #
 - \[C1\] Ziyi Wang, Siting Liu, *Yuan Pu*, Song Chen, Tsung-Yi Ho, Bei Yu, “Realistic Sign-off Timing Prediction via Multimodal Fusion”, ACM/IEEE Design Automation Conference (DAC), San Francisco, Jul. 09–13, 2023
 === Journal papers
+- \[J7\] *Yuan Pu*, Zhuolun He, Yuqi Jiang, Tairu Qiu, Haoyuan Wu, Qi Sun, Cheng Zhuo, Bei Yu, “Customized Retrieval Augmented Generation and Benchmarking for EDA Tool Documentation QA”, accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
+#
+- \[J6\] Zhuolun He, *Yuan Pu*, Haoyuan Wu, Tairu Qiu, Bei Yu, “Large Language Models for EDA: Future or Mirage?”, accepted by ACM Transactions on Design Automation of Electronic Systems (TODAES).
+#
 - \[J5\] Jiahao Xu, Zhuolun He, Shuo Yin, *Yuan Pu*, Wenjian Yu, Bei Yu, “EasyMRC: Efficient Mask Rule Checking via Representative Edge Sampling”, accepted by ACM Transactions on Design Automation of Electronic Systems (TODAES).
 #
 - \[J4\] *Yuan Pu*, Tinghuan Chen, Zhuolun He, Jiajun Qin, Chen Bai, Haisheng Zheng, Yibo Lin, Bei Yu, “IncreMacro: Incremental Macro Placement Refinement”, accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
@@ -100,7 +106,6 @@ I am a second-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department o
  Best Paper Nomination              |IEEE/ACM International Conference on Computer-Aided Design (ICCAD), |2024||
  Best Paper Nomination              |International Symposium on Physical Design (ISPD), |2024||
  Fifth Place,                       |MLCAD 2023 contest, FPGA Macro Placement,  |2023||
- Full Postgraduate Studentship,     |The Chinese University of Hong Kong,     |2023-2027||
  Special Award, Second Runner-Up,   |Professor Charles K. Kao Student Creativity Awards 2021 (PCKKSCA)  | 2021||
 ~~~
 
