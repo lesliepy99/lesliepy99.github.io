@@ -42,6 +42,8 @@ I am a second-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department o
 
 == Publication
 === Conference papers
+- \[C10] Baohui Xie, Xinrui Zhu, Zhiyuan Lu, *Yuan Pu*, Tongkai Wu, Xiaofeng Zou, Bei Yu, Tinghuan Chen, “DSPlacer: DSP Placement for FPGA-based CNN accelerator”, ACM/IEEE Design Automation Conference (DAC), San Francisco, Jun. 22–25, 2025.
+#
 - \[C9] Haoyuan Wu, Haisheng Zheng, *Yuan Pu*, Bei Yu, “Circuit Representation Learning with Masked Gate Modeling and Verilog-AIG Alignment”, International Conference on Learning Representations (ICLR), Singapore, Apr. 24–28, 2025.
 #
 - \[C8] *Yuan Pu*, Fangzhou Liu, Zhuolun He, Keren Zhu, Rongliang Fu, Ziyi Wang, Tsung-Yi Ho, Bei Yu, “HeLO: A Heterogeneous Logic Optimization Framework by Hierarchical Clustering and Graph Learning”, ACM International Symposium on Physical Design (ISPD), Austin, Mar. 16–19, 2025. (*Best Paper Award Nomination*)
@@ -60,6 +62,8 @@ I am a second-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department o
 #
 - \[C1\] Ziyi Wang, Siting Liu, *Yuan Pu*, Song Chen, Tsung-Yi Ho, Bei Yu, “Realistic Sign-off Timing Prediction via Multimodal Fusion”, ACM/IEEE Design Automation Conference (DAC), San Francisco, Jul. 09–13, 2023
 === Journal papers
+- \[J8\] Ziyi Wang, Siting Liu, *Yuan Pu*, Song Chen, Tsung-Yi Ho, Bei Yu, “PRO-TIME: Pre-routing Optimization-aware Timing Prediction via Multimodal Learning”, accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
+#
 - \[J7\] *Yuan Pu*, Zhuolun He, Yuqi Jiang, Tairu Qiu, Haoyuan Wu, Qi Sun, Cheng Zhuo, Bei Yu, “Customized Retrieval Augmented Generation and Benchmarking for EDA Tool Documentation QA”, accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
 #
 - \[J6\] Zhuolun He, *Yuan Pu*, Haoyuan Wu, Tairu Qiu, Bei Yu, “Large Language Models for EDA: Future or Mirage?”, accepted by ACM Transactions on Design Automation of Electronic Systems (TODAES).
