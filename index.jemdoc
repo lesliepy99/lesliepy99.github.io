@@ -42,6 +42,10 @@ I am a second-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department o
 
 == Publication
 === Conference papers
+- \[C12] *Yuan Pu\**, Yuhao Ji\*, Siying Yu, Zuodong Zhang, Zizheng Guo, Zhuolun He, Yibo Lin, David Z. Pan, Bei Yu, “GPU Acceleration for Versatile Buffer Insertion”, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Oct. 26–30, 2025.
+#
+- \[C11] *Yuan Pu*, Zhuolun He, Shutong Lin, Jiajun Qin, Xinyun Zhang, Hairuo Han, Haisheng Zheng, Yuqi Jiang, Cheng Zhuo, Qi Sun, David Z. Pan, Bei Yu, “MM-GRADE: A Multi-Modal EDA Tool Documentation QA Framework Leveraging Retrieval Augmented Generation”, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Oct. 26–30, 2025.
+#
 - \[C10] Baohui Xie, Xinrui Zhu, Zhiyuan Lu, *Yuan Pu*, Tongkai Wu, Xiaofeng Zou, Bei Yu, Tinghuan Chen, “DSPlacer: DSP Placement for FPGA-based CNN accelerator”, ACM/IEEE Design Automation Conference (DAC), San Francisco, Jun. 22–25, 2025.
 #
 - \[C9] Haoyuan Wu, Haisheng Zheng, *Yuan Pu*, Bei Yu, “Circuit Representation Learning with Masked Gate Modeling and Verilog-AIG Alignment”, International Conference on Learning Representations (ICLR), Singapore, Apr. 24–28, 2025.
