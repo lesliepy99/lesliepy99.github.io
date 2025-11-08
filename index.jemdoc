@@ -43,6 +43,14 @@ I am a second-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department o
 
 == Publication
 === Conference papers
+- \[C16] Peng Xu, Ziyang Yu, Yuan Pu, Xinyun Zhang, Donger Luo, Hao Geng, Siyuan Xu, Tsung-Yi Ho, Bei Yu, “RATuner: Retrieval-Augmented VLSI Flow Design Parameter Tuning Framework”, IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr. 20–22, 2026.
+#
+- \[C15] Lancheng Zou, Sing Sen YE, Shuo Yin, Yuan Pu, Jiaxi Jiang, Siting Liu, Yuxuan Zhao, Bei Yu, “IncreMacro-3D: Incremental Macro Placement for Face-to-Face Stacked Memory-on-Logic 3D ICs”, IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr. 20–22, 2026.
+#
+- \[C14] Zhenghao Chen, *Yuan Pu*, Hairuo Han, Yuntao Nie, Jiajun Qin, Yuhan Qin, Tairu Qiu, Zhuolun He, Jianwang Zhai, Bei Yu, Kang Zhao, “MAEDA: An LLM-Powered Multi-Agent Evaluation Framework for EDA Tool Documentation QA”, IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr. 20–22, 2026.
+#
+- \[C13] Zhaohai Di, Jindong Tu, Zhiyuan HE, *Yuan Pu*, Jiawei Liu, Chong Tong, Tsung-Yi Ho, Bei Yu, Tinghuan Chen, “Smart-PCLib: A LLM-based Multi-Agent Framework for Automated PCB Component Library Generation”, IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr. 20–22, 2026.
+#
 - \[C12] *Yuan Pu\**, Yuhao Ji\*, Siying Yu, Zuodong Zhang, Zizheng Guo, Zhuolun He, Yibo Lin, David Z. Pan, Bei Yu, “GPU Acceleration for Versatile Buffer Insertion”, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Oct. 26–30, 2025.
 #
 - \[C11] *Yuan Pu*, Zhuolun He, Shutong Lin, Jiajun Qin, Xinyun Zhang, Hairuo Han, Haisheng Zheng, Yuqi Jiang, Cheng Zhuo, Qi Sun, David Z. Pan, Bei Yu, “MM-GRADE: A Multi-Modal EDA Tool Documentation QA Framework Leveraging Retrieval Augmented Generation”, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Oct. 26–30, 2025.
