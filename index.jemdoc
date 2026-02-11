@@ -51,7 +51,7 @@ I am a second-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department o
 #
 - \[C14] Zhenghao Chen, *Yuan Pu*, Hairuo Han, Yuntao Nie, Jiajun Qin, Yuhan Qin, Tairu Qiu, Zhuolun He, Jianwang Zhai, Bei Yu, Kang Zhao, “MAEDA: An LLM-Powered Multi-Agent Evaluation Framework for EDA Tool Documentation QA”, IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr. 20–22, 2026.
 #
-- \[C13] Zhaohai Di, Jindong Tu, Zhiyuan HE, *Yuan Pu*, Jiawei Liu, Chong Tong, Tsung-Yi Ho, Bei Yu, Tinghuan Chen, “Smart-PCLib: A LLM-based Multi-Agent Framework for Automated PCB Component Library Generation”, IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr. 20–22, 2026.
+- \[C13] Zhaohai Di, Jindong Tu, Zhiyuan HE, *Yuan Pu*, Jiawei Liu, Chong Tong, Tsung-Yi Ho, Bei Yu, Tinghuan Chen, “Smart-PCLib: A LLM-based Multi-Agent Framework for Automated PCB Component Library Generation”, IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr. 20–22, 2026. ({{<span style="color:red"><b>Best Paper Award Nomination</b></span>}})
 #
 - \[C12] *Yuan Pu\**, Yuhao Ji\*, Siying Yu, Zuodong Zhang, Zizheng Guo, Zhuolun He, Yibo Lin, David Z. Pan, Bei Yu, “GPU Acceleration for Versatile Buffer Insertion”, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Oct. 26–30, 2025.
 #
@@ -61,7 +61,7 @@ I am a second-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department o
 #
 - \[C9] Haoyuan Wu, Haisheng Zheng, *Yuan Pu*, Bei Yu, “Circuit Representation Learning with Masked Gate Modeling and Verilog-AIG Alignment”, International Conference on Learning Representations (ICLR), Singapore, Apr. 24–28, 2025.
 #
-- \[C8] *Yuan Pu*, Fangzhou Liu, Zhuolun He, Keren Zhu, Rongliang Fu, Ziyi Wang, Tsung-Yi Ho, Bei Yu, “HeLO: A Heterogeneous Logic Optimization Framework by Hierarchical Clustering and Graph Learning”, ACM International Symposium on Physical Design (ISPD), Austin, Mar. 16–19, 2025. (*Best Paper Award Nomination*)
+- \[C8] *Yuan Pu*, Fangzhou Liu, Zhuolun He, Keren Zhu, Rongliang Fu, Ziyi Wang, Tsung-Yi Ho, Bei Yu, “HeLO: A Heterogeneous Logic Optimization Framework by Hierarchical Clustering and Graph Learning”, ACM International Symposium on Physical Design (ISPD), Austin, Mar. 16–19, 2025. ({{<span style="color:red"><b>Best Paper Award Nomination</b></span>}})
 #
 - \[C7] *Yuan Pu*, Zhuolun He, Tairu Qiu, Haoyuan Wu, Bei Yu, “Customized Retrieval Augmented Generation and Benchmarking for EDA Tool Documentation QA”, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct. 27–31, 2024. ({{<span style="color:red"><b>Best Paper Award Nomination</b></span>}})
 #
@@ -71,7 +71,7 @@ I am a second-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department o
 #
 - \[C4\] Yu Zhang, *Yuan Pu*, Fangzhou Liu, Peiyu Liao, Kaiyuan Chao, Keren Zhu, Yibo Lin, Bei Yu, “Multi-Electrostatics Based Placement for Non-Integer Multiple-Height Cells”, ACM International Symposium on Physical Design (ISPD), Taipei, Mar. 12–15, 2024.
 #
-- \[C3\] *Yuan Pu*, Tinghuan Chen, Zhuolun He, Chen Bai, Haisheng Zheng, Yibo Lin, Bei Yu, “IncreMacro: Incremental Macro Placement Refinement”, ACM International Symposium on Physical Design (ISPD), Taipei, Mar. 12–15, 2024. (*Best Paper Award Nomination*)
+- \[C3\] *Yuan Pu*, Tinghuan Chen, Zhuolun He, Chen Bai, Haisheng Zheng, Yibo Lin, Bei Yu, “IncreMacro: Incremental Macro Placement Refinement”, ACM International Symposium on Physical Design (ISPD), Taipei, Mar. 12–15, 2024. ({{<span style="color:red"><b>Best Paper Award Nomination</b></span>}})
 #
 - \[C2\] Siting Liu, *Yuan Pu*, Peiyu Liao, Hongzhong Wu, Rui Zhang, Zhitang Chen, Wenlong Lv, Yibo Lin, Bei Yu, “FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler (Extended Abstract)”, International Joint Conference on Artificial Intelligence (IJCAI), Macau, Aug. 19–25, 2023.
 #
@@ -85,9 +85,9 @@ I am a second-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department o
 #
 - \[J7\] *Yuan Pu*, Zhuolun He, Yuqi Jiang, Tairu Qiu, Haoyuan Wu, Qi Sun, Cheng Zhuo, Bei Yu, “Customized Retrieval Augmented Generation and Benchmarking for EDA Tool Documentation QA”, accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
 #
-- \[J6\] Zhuolun He, *Yuan Pu*, Haoyuan Wu, Tairu Qiu, Bei Yu, “Large Language Models for EDA: Future or Mirage?”, accepted by ACM Transactions on Design Automation of Electronic Systems (TODAES).
+- \[J6\] Zhuolun He, *Yuan Pu*, Haoyuan Wu, Tairu Qiu, Bei Yu, “Large Language Models for EDA: Future or Mirage?”, accepted by ACM Transactions on Design Automation of Electronic Systems (TODAES). ({{<span style="color:red"><b>Editor's Pick</b></span>}})
 #
-- \[J5\] Jiahao Xu, Zhuolun He, Shuo Yin, *Yuan Pu*, Wenjian Yu, Bei Yu, “EasyMRC: Efficient Mask Rule Checking via Representative Edge Sampling”, accepted by ACM Transactions on Design Automation of Electronic Systems (TODAES).
+- \[J5\] Jiahao Xu, Zhuolun He, Shuo Yin, *Yuan Pu*, Wenjian Yu, Bei Yu, “EasyMRC: Efficient Mask Rule Checking via Representative Edge Sampling”, accepted by ACM Transactions on Design Automation of Electronic Systems (TODAES). 
 #
 - \[J4\] *Yuan Pu*, Tinghuan Chen, Zhuolun He, Jiajun Qin, Chen Bai, Haisheng Zheng, Yibo Lin, Bei Yu, “IncreMacro: Incremental Macro Placement Refinement”, accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
 #
@@ -130,6 +130,7 @@ I am a second-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department o
 == Selected Awards
 ~~~
 {}{table}{noborder}
+ Best Paper Nomination              |IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), |2026||
  Best Paper Nomination              |International Symposium on Physical Design (ISPD), |2025||
  Best Paper Nomination              |IEEE/ACM International Conference on Computer-Aided Design (ICCAD), |2024||
  Best Paper Nomination              |International Symposium on Physical Design (ISPD), |2024||
