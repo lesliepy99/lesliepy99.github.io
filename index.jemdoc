@@ -43,6 +43,10 @@ I am a third-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department of
 
 == Publication
 === Conference papers
+- \[C19\] Zhaohai Di, Jindong Tu, Zhiyuan He, *Yuan Pu*, Tinghuan Chen, "PCBgen3D: A Self-Correcting Graph-based MLLM Framework for Automated PCB 3D Models Generation", ACM/IEEE Design Automation Conference (DAC), Long Beach, July 26-29, 2026.
+#
+- \[C18\] Siyuan Liang, Shanyi Li, Leilei Jin, *Yuan Pu*, Yushen Zhang, Zhen Zhuang, Kai-Yuan Chao, Ulf Schlichtmann and Tsung-Yi Ho, "BLADE: Bi-Level Bayesian Optimization for Metal-Density-Constrained Multi-Layer Package Power/Ground Plane Synthesis", ACM/IEEE Design Automation Conference (DAC), Long Beach, July 26-29, 2026.
+#
 - \[C17\] Yuhan Qin, *Yuan Pu*, Tairu Qiu, Zhuolun He, Bei Yu, “Infusing EDA Knowledge into LLM Systems: An Information-Source Perspective”, ACM International Symposium on Physical Design (ISPD), Bonn, Mar. 15–18, 2026. 
 #
 - \[C16] Peng Xu, Ziyang Yu, *Yuan Pu*, Xinyun Zhang, Donger Luo, Hao Geng, Siyuan Xu, Tsung-Yi Ho, Bei Yu, “RATuner: Retrieval-Augmented VLSI Flow Design Parameter Tuning Framework”, IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr. 20–22, 2026.
