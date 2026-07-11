@@ -43,6 +43,12 @@ I am a third-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department of
 
 == Publication
 === Conference papers
+- \[C22\] *Yuan Pu*, Yudong He, Zhenghao Chen, Mingjun Wang, Bingkun Yao, Zhaotan Lin, Qin Chen, Bing Li, Song Chen, Zhuolun He, Wenjian Yu, Yanfeng Li, Bei Yu, “ChatFCM: Comprehension-Synthesis Decoupling for LLM-Based Functional Coverage Model Generation”, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, Nov. 08–12, 2026.
+#
+- \[C21\] Yuheng Huang, Yuhan Qin, *Yuan Pu*, Zhaotan Lin, Yuntao Nie, Zhuolun He, Jianwang Zhai, Kang Zhao, Bei Yu, “A Multi-Granularity Retrieval Augmented Generation Framework for EDA Tasks Leveraging Knowledge Graph”, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, Nov. 08–12, 2026.
+#
+- \[C20\] Siyang Chen, *Yuan Pu*, Yuhan Qin, Zhaotan Lin, Siyuan Liang, Zhuolun He, Lining Zhang, Bei Yu, “SGLayout: Schema-Guided Closed-Loop Refinement for LLM-Driven Parameterized Layout Generation”, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, Nov. 08–12, 2026.
+#
 - \[C19\] Zhaohai Di, Jindong Tu, Zhiyuan He, *Yuan Pu*, Tinghuan Chen, "PCBgen3D: A Self-Correcting Graph-based MLLM Framework for Automated PCB 3D Models Generation", ACM/IEEE Design Automation Conference (DAC), Long Beach, July 26-29, 2026.
 #
 - \[C18\] Siyuan Liang, Shanyi Li, Leilei Jin, *Yuan Pu*, Yushen Zhang, Zhen Zhuang, Kai-Yuan Chao, Ulf Schlichtmann and Tsung-Yi Ho, "BLADE: Bi-Level Bayesian Optimization for Metal-Density-Constrained Multi-Layer Package Power/Ground Plane Synthesis", ACM/IEEE Design Automation Conference (DAC), Long Beach, July 26-29, 2026.
