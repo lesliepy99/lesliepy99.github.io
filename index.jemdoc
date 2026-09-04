@@ -43,6 +43,8 @@ I am a third-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department of
 
 == Publication
 === Conference papers
+- \[C23\] Yuhan Qin, *Yuan Pu*, Zhuolun He, Bei Yu, “FormalPCell: Formal DRC Verification of Parameterized Layout Cells via Symbolic Interpretation and SMT Solving”, IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC), Tokyo, Jan. 25–28, 2027.
+#
 - \[C22\] *Yuan Pu*, Yudong He, Zhenghao Chen, Mingjun Wang, Bingkun Yao, Zhaotan Lin, Qin Chen, Bing Li, Song Chen, Zhuolun He, Wenjian Yu, Yanfeng Li, Bei Yu, “ChatFCM: Comprehension-Synthesis Decoupling for LLM-Based Functional Coverage Model Generation”, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, Nov. 08–12, 2026.
 #
 - \[C21\] Yuheng Huang, Yuhan Qin, *Yuan Pu*, Zhaotan Lin, Yuntao Nie, Zhuolun He, Jianwang Zhai, Kang Zhao, Bei Yu, “A Multi-Granularity Retrieval Augmented Generation Framework for EDA Tasks Leveraging Knowledge Graph”, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, Nov. 08–12, 2026.
